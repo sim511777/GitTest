@@ -10,6 +10,7 @@ namespace GitTest {
             Console.WriteLine(
                 @"==== Hello, world ====
 1
+2
 ======================");
         }
     }
